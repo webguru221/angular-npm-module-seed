@@ -74,7 +74,7 @@ Anytime you need to update your module, just rebuild, change the version number 
 
 ### Get in touch
 
-Feel free to drop me a line if you have an issue, doubt, problem or suggestion, even just to tell me what you think. You can leave an issue here or give me a shout on [Twitter](http://twitter.com/davguij).
+Feel free to drop me a line if you have an issue, doubt, problem or suggestion, even just to tell me what you think. You can leave an issue here.
 
 ### License
 
