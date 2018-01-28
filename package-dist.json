@@ -1,10 +1,10 @@
 {
 	"name": "angular-npm-module-seed",
 	"version": "1.0.0",
-	"description": "Wot!",
+	"description": "Starting point for developing Angular modules and publishing them on NPM",
 	"main": "bundles/npm-module-seed.umd.min.js",
-	"module": "index.js",
-	"typings": "index.d.ts",
+	"module": "dist/index.js",
+	"typings": "dist/index.d.ts",
 	"keywords": [
 		"angular",
 		"angular2",
@@ -14,19 +14,19 @@
 		"name": "",
 		"email": ""
 	},
-	"license": "",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/webguru221/angular-npm-module-seed.git"
 	},
-	"homepage": "",
+	"homepage": "https://github.com/webguru221/angular-npm-module-seed",
 	"bugs": {
-		"url": ""
+		"url": "https://github.com/webguru221/angular-npm-module-seed/issues"
 	},
 	"peerDependencies": {
-		"@angular/core": "^2.4.0",
-		"reflect-metadata": "^0.1.8",
-		"rxjs": "^5.0.1",
-		"zone.js": "^0.7.2"
+		"@angular/core": "^5.2.1",
+		"reflect-metadata": "^0.1.12",
+		"rxjs": "^5.5.6",
+		"zone.js": "^0.8.20"
 	}
 }
